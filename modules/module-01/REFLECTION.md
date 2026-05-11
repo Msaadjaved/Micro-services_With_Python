@@ -1,3 +1,7 @@
+## YOU NEED TO COMMIT THIS FILE BEFORE MOVING ON TO THE NEXT MODULE ! 🚨
+
+** feel free to delete this comment **
+
 # Module 1 — Reflection
 
 **Team name**: **\*\***\_\_\_**\*\***
@@ -47,5 +51,3 @@ No need to solve it: just name it honestly. This is exactly the tension the rest
 ---
 
 _Keep this file. You will refer back to it during the oral presentation._
-
-## YOU NEED TO COMMIT THIS FILE BEFORE MOVING ON TO THE NEXT MODULE ! 🚨
