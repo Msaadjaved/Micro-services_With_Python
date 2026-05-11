@@ -30,6 +30,10 @@ modules/
 │   └── ...
 ├── ...
 ├── module-08/
+├── module-09/
+│   └── exercise.md      ← optional exploration guide (observability)
+├── module-10/
+│   └── exercise.md      ← optional exploration guide (resilience)
 └── module-09-10/
     └── ORAL_PRESENTATION.md   ← final assessment guide
 
@@ -119,6 +123,8 @@ docker compose \
 ---
 
 ## System map
+
+> Databases shown are the Module 8+ production state. Modules 1–7 use SQLite locally.
 
 ```
                     ┌─────────────────────┐
