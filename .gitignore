@@ -45,12 +45,16 @@ frontend/*.local
 
 
 
-modules/module-03/*
-modules/module-04/*
-modules/module-05/*
-modules/module-06/*
-modules/module-07/*
-modules/module-08/*
-modules/module-09/*
-modules/module-09-10/*
-modules/module-10/*
+modules/module-03/solution/
+modules/module-04/solution/
+modules/module-05/solution/
+modules/module-06/solution/
+modules/module-07/solution/
+modules/module-08/solution/
+modules/module-09/solution/
+modules/module-09-10/solution/
+modules/module-10/solution/
+
+# Database files
+*.db
+*.sqlite
